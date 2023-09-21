@@ -1,0 +1,1 @@
+# strock_text
